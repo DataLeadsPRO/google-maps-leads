@@ -1,0 +1,26 @@
+[
+  {
+    "name": "maps_search",
+    "method": "POST",
+    "path": "/maps/search",
+    "description": "V1 Maps Search"
+  },
+  {
+    "name": "maps_status",
+    "method": "POST",
+    "path": "/maps/status",
+    "description": "V1 Maps Status"
+  },
+  {
+    "name": "maps_results",
+    "method": "POST",
+    "path": "/maps/results",
+    "description": "V1 Maps Results"
+  },
+  {
+    "name": "maps_jobs",
+    "method": "POST",
+    "path": "/maps/jobs",
+    "description": "V1 Maps Jobs"
+  }
+]
