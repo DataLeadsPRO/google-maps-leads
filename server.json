@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.DataLeadsPRO/google-maps-leads",
   "description": "Turn Maps queries into lead lists: businesses, phones, websites, and reviews with async job control.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "url": "https://github.com/DataLeadsPRO/google-maps-leads",
     "source": "github"
