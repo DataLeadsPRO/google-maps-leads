@@ -24,4 +24,4 @@ jobs:
       - uses: docker/build-push-action@v6
         with:
           push: true
-          tags: ghcr.io/dataleads/google-maps-leads-mcp:latest
+          tags: ghcr.io/dataleadspro/google-maps-leads-mcp:latest
